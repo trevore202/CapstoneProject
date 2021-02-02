@@ -96,7 +96,7 @@ Editing User Details for ${user.username}
 	
 <label>Last Name</label>
 	<div class='input-group mb-3'>
-		<input class="form-control" type="text" name="lname" value="${user.password}"/>
+		<input class="form-control" type="text" name="lname" value="${user.lname}"/>
 	</div>
 	
 <label>Address</label>
